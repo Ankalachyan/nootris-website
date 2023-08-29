@@ -3,5 +3,9 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: "Rubik", sans-serif;
+  font-family: "Rubik";
+}
+@font-face {
+  font-family: 'Rubik' ;
+  src: url(./assets/fonts/Rubik-VariableFont_wght.ttf);
 }
